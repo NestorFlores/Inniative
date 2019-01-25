@@ -1,0 +1,18 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "innovative",
+  "password": "innovative123",
+  "database": "innovative",
+  "synchronize": true,
+  "logging": true,
+  "entities": ["src/persistence/entity/**/*.ts"],
+  "migrations": ["src/persistencemigration/**/*.ts"],
+  "subscribers": ["src/persistence/subscriber/**/*.ts"],
+  "cli": {
+    "entitiesDir": "src/persistence/entity",
+    "migrationsDir": "src/persistence/migration",
+    "subscribersDir": "src/persistence/subscriber"
+  }
+}
