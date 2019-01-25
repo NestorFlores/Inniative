@@ -83,8 +83,7 @@ docker run -p 3000:3000 code-challenge
 * [TypeORM](https://github.com/typeorm/typeorm/) - An Object Relational Mapper (ORM)
 
 ## Build Status
-[![Build Status](https://travis-ci.org/aQuienVoto/backend.svg?branch=master)](https://travis-ci.org/aQuienVoto/backend)
-
+[![Build Status](https://travis-ci.org/NestorFlores/Inniative.svg?branch=master)](https://travis-ci.org/NestorFlores/Inniative)
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
