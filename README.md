@@ -3,7 +3,8 @@
 The implementation of A Quien Voto Backend application, written in
 *   Javascript
 *   Typescript
-*   Mongoose 
+*   PostreSQL
+*   TypeORM
 *   Express
 
 ## Getting Started
