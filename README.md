@@ -1,6 +1,6 @@
 # Code Challenge
 
-The implementation of A Quien Voto Backend application, written in
+The implementation of a NodeJS - Typescript - PostreSQL application, written in
 *   Javascript
 *   Typescript
 *   PostreSQL
@@ -80,7 +80,7 @@ docker run -p 3000:3000 code-challenge
 * [Express](https://expressjs.com/) - Our route / api middleware to handle request
 * [TypeScript](https://www.typescriptlang.org/) - A supercharged tool to use with Javascript
 * [Postgresql](https://www.postgresql.com/) - A SQL database to store our data
-* [TypeORM](https://github.com/typeorm/typeorm/) - An Object Relational Mapper (ODM)
+* [TypeORM](https://github.com/typeorm/typeorm/) - An Object Relational Mapper (ORM)
 
 ## Build Status
 [![Build Status](https://travis-ci.org/aQuienVoto/backend.svg?branch=master)](https://travis-ci.org/aQuienVoto/backend)
