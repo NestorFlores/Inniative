@@ -1,4 +1,4 @@
-# Code Challeng
+# Code Challenge
 
 The implementation of A Quien Voto Backend application, written in
 *   Javascript
